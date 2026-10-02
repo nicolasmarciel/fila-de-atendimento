@@ -1,0 +1,6 @@
+{
+  "name": "FilaExpress - Gestão de Atendimento e Painel de Senhas",
+  "description": "Sistema completo para gestão de filas de atendimento com emissão de senhas, painel de chamada em TV com sintetizador de voz e painel de guichê do atendente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
